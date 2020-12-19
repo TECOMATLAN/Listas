@@ -1,0 +1,35 @@
+#EXTM3U
+ 
+ 
+#EXTINF:-1 tvg-logo="https://imgur.com/IW9PSEp.png"group-tile="MEXICO",[COLOR 
+
+blue]JUAN CARLOS CASAS CRUZ[/COLOR]
+http://127.0.0.1 
+
+
+#EXTINF:-1 tvg-logo="https://colegiopah.cl/plat/wp-
+
+content/uploads/2017/06/calendar.png" group-title="IPTV",[COLOR lime] 
+
+SEPTIEMBRE 21 [/COLOR]
+http://cdn.metacafe.com/videos/11530000/11530490/11530490_720p.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RLmLtpl.png" group-title="MEXICO", 
+
+[COLOR lime]ME[/COLOR][COLOR white]XI[/COLOR][COLOR red]CO[/COLOR]
+http://127.0.0.1 
+
+ 
+#EXTINF:-1, group-title="Entretenimiento", [COLOR yellow]- TV -[/COLOR]
+http://
+ 
+
+
+#EXTINF:-1 tvg-logo="http://tecnotv.info/logoss/estrellas.png",Canal de las 
+
+Estrellas
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CEST/tu1_1.m3u8?
+
+tecnotv.info?.m3u
+
